@@ -96,6 +96,3 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/ghaith-ah/ghaith-ah/blob/output/github-contribution-grid-snake-dark.svg)
-###
