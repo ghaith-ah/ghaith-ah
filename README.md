@@ -97,5 +97,5 @@
 
 ###
 
-![snake gif](https://github.com/ghaiith/ghaiith/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/ghaith-ah/ghaith-ah/blob/output/github-contribution-grid-snake-dark.svg)
 ###
